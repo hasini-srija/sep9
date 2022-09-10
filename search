@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  node*temp,start,ele;
+  printf(enter an element);
+  scanf("%d",&ele);
+  start=temp;
+  while(temp->data!=NULL);
+  {
+    temp++;
+    if(temp->data==ele;
+    printf("search element is found",ele);
+    else
+    printf("search element is not found");
+  }
+  return;
+}
