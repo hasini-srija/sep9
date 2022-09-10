@@ -1,0 +1,23 @@
+#include<stdio.h.
+#include<conio.j>
+void main()
+{
+  node*newnode,n,start;
+  printf("enter an element");
+  scanf("%d",newnode->data);
+  newnode->ref==NULL;
+  newnode=int*malloc(n*sizeof(int));
+  if(start==NULL)
+  start==newnode;
+  else
+  node*temp;
+  start=temp;
+  while(newnode->ref!=NULL);
+  {
+    temp++;
+  }
+  temp->NULL==newnode;
+  printf("newnode inserted at end successfully");
+  return;
+}
+ 
