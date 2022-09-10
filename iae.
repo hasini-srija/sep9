@@ -4,9 +4,9 @@ void main()
 {
   node*newnode,n,start;
   printf("enter an element");
+  newnode=int*malloc(n*sizeof(int));
   scanf("%d",newnode->data);
   newnode->ref==NULL;
-  newnode=int*malloc(n*sizeof(int));
   if(start==NULL)
   start==newnode;
   else
